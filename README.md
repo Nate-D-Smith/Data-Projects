@@ -1,7 +1,7 @@
 ## Hi, I'm Nate!
-- Recent graduate in International Business 
-- Aspiring Data Analyst | Fluent in French 
-- Actively seeking remote data-related roles
+- Recent masters graduate in Data Analytics, Data Science from WGU
+- Aspiring Data Analyst/Scientist | Fluent in French 
+- Actively seeking data-related roles
 
 ## Tools & Technologies
 **Languages:** Python, SQL, R  
