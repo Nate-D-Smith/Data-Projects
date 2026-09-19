@@ -9,7 +9,7 @@
 **Data:** Excel, Pandas, NumPy, Scikit-learn, TensorFlow
 
 ## Projects
-**Conv Neural Network** I created a CNN in Python with TensorFlow and Keras to classify plant seedling images.
+**Conv Neural Network:** I created a CNN in Python with TensorFlow and Keras to classify plant seedling images.
 
 **Spam:** I used python to create a Scikit-learn model classifying spam emails.
 
